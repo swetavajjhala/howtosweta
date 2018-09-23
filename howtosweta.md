@@ -2,10 +2,10 @@
 
 _Heavily inspired by [How To Rands](http://randsinrepose.com/archives/how-to-rands/)_
 
-Hello and welcome to the team!
+##### Purpose of this document
 
-It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
+Hello and welcome to the team! I am so excited to have you on board. It will take some time to ramp up on all things $COMPANY and get to know how things operate around here. During this time, one of the working relationships we'll need to define is ours.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
+The purpose of this document is to make clear what you can expect from me, and some baseline expectations I will have for you. It will also give some insight into my management philosophy and some driving principals. My intent is to accelerate our working relationship with this document.
 
-Please note that this document is a living breathing thing and likely incomplete. I plan to update it frequently and would truly appreciate your feedback.
+Please note that this is a [living, breathing document](https://github.com/swetavajjhala/howtosweta/edit/master/howtosweta.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
