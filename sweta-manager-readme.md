@@ -17,6 +17,7 @@ Please note that this is a [living, breathing document](https://github.com/sweta
 
 
 ## Who am I?
+My name is Sweta (that's pronounced _"sway-tha"_). I grew up in a small town in New Hampshire in a loving home (mom, dad, younger sister). I currently live in San Francisco with [my husband](https://twitter.com/dackerman) of 5 years and counting. When I am not working, I love to read, watch and play tennis, explore San Francisco, and on fall Sundays, follow my hometown New England Patriots.
 
 ## My Values
 
@@ -27,7 +28,6 @@ Please note that this is a [living, breathing document](https://github.com/sweta
 
 
 ### How to Reach Me
-
 
 
 
