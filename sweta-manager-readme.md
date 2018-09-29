@@ -1,6 +1,6 @@
-# How To Sweta
+# Sweta's Manager Readme
 
-_Heavily inspired by [How To Rands](http://randsinrepose.com/archives/how-to-rands/)_
+_Inspired by [How To Rands](http://randsinrepose.com/archives/how-to-rands/), [Oren Ellenbogen](https://docs.google.com/document/d/1sx5ssYb_xMrmwPpyjD5xP7RvQ7cHweDYlRGn2SXztKw/edit#), and a number of other exceptional engineering leaders_
 
 ##### Purpose of this document
 
@@ -11,7 +11,7 @@ The purpose of this document is to make clear what you can expect from me, and s
 This document does NOT:
 * Replace any career architecture or progression documents at $COMPANY
 * Have anything related to my plans for the organization and its product
-* Apply to any other manager at $COMPANY.
+* Apply to any other manager at $COMPANY
 
 Please note that this is a [living, breathing document](https://github.com/swetavajjhala/sweta-manager-readme/blob/master/sweta-manager-readme.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
 
