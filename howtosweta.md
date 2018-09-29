@@ -10,26 +10,33 @@ The purpose of this document is to make clear what you can expect from me, and s
 
 This document does NOT:
 * Replace any career architecture or progression documents at $COMPANY
-* Have anything related to my plans for the organization and its products
+* Have anything related to my plans for the organization and its product
+* Apply to any other manager at $COMPANY.
 
 Please note that this is a [living, breathing document](https://github.com/swetavajjhala/howtosweta/edit/master/howtosweta.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
+
+
+## Who am I?
+
+## My Values
+
+## Personality Quirks
 
 
 ## What You Can Expect From Me
 
 
-#### I will "show up" to work every day
-Every day, I will bring my whole self to work. What does this mean?
+### How to Reach Me
 
 
-#### You can reach me in the following ways
-If you have a question that does not need a response within 48 hours, you can leave me a Slack direct message (DM). I will respond by end of the week.
 
-If you need to discuss something that needs a response within 48 hours, send me an email - I will respond within 24 hours.
-
-If you need to discuss a topic that needs immediate attend, page, text or call me. This should only be used in most dire of circumstances.
 
 ## What I Expect From You
 
-#### You will "show up" to work every day
-I expect that you will do the same. If, for some reason, you are not able to do this, I expect that you will communicate this to me, so we can work out a schedule that makes sense.
+### Expectations 101
+
+### 1-on-1s
+
+### Your Work
+
+### Working With Others
