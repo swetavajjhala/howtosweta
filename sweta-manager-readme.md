@@ -13,7 +13,7 @@ This document does NOT:
 * Have anything related to my plans for the organization and its product
 * Apply to any other manager at $COMPANY.
 
-Please note that this is a [living, breathing document](https://github.com/swetavajjhala/sweta-manager-readme/blob/master/howtosweta.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
+Please note that this is a [living, breathing document](https://github.com/swetavajjhala/sweta-manager-readme/blob/master/sweta-manager-readme.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
 
 
 ## Who am I?
