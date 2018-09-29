@@ -8,6 +8,10 @@ Hello and welcome to the team! I am so excited to have you on board. It will tak
 
 The purpose of this document is to make clear what you can expect from me, and some baseline expectations I will have for you. It will also give some insight into my management philosophy and some driving principals. My intent is to accelerate our working relationship with this document.
 
+This document does NOT:
+* Replace any career architecture or progression documents at $COMPANY
+* Have anything related to my plans for the organization and its products
+
 Please note that this is a [living, breathing document](https://github.com/swetavajjhala/howtosweta/edit/master/howtosweta.md) - as such, I plan to update it frequently and would truly appreciate your feedback.
 
 
